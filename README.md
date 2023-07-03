@@ -9,7 +9,7 @@ This project aims to build a small Mario Game with the capability of changing th
 
 ## How it work
 ### Classes Structure
-![Structure](https://github.com/Omar-X/SuperMario_Cpp_project/assets/55954393/216bad82-d4e1-416f-8b87-90cdbb24fb00)
+![Structure](https://github.com/Omar-X/SuperMario_Cpp_project/assets/55954393/216bad82-d4e1-416f-8b87-90cdbb24fb00 =100x20)
 * First run the start screen in main.cpp file 
 ![NewGameScreen](https://github.com/Omar-X/SuperMario_Cpp_project/assets/55954393/f8e3cbf2-5f61-4720-88bb-22cff69c3337)
 * by pressing new game it run the game object and starts the game
