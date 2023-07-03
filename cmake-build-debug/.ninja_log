@@ -1,0 +1,19 @@
+# ninja log v5
+77	11319	1684936116131508633	CMakeFiles/SwordsMan.dir/Libs/Mario.cpp.o	32b39ec65727803a
+11	104	1684943800305381640	SwordsMan	9d5c2ca3f6e2d136
+80	11425	1684936116131508633	CMakeFiles/SwordsMan.dir/Libs/ScoreBoard.cpp.o	d6d9b9bc7f4d8274
+2	906	1684942432990989224	CMakeFiles/SwordsMan.dir/Libs/Turtle.cpp.o	1df9221242c5c33b
+1	300	1684941655070890116	CMakeFiles/SwordsMan.dir/Libs/Object.cpp.o	280d5fac84e5d32d
+1	11	1684943800213381635	CMakeFiles/SwordsMan.dir/Libs/Game.cpp.o	fcf3c2461acbc3e9
+1	964	1684940722272046284	CMakeFiles/SwordsMan.dir/main.cpp.o	634eef3f3796a8e1
+0	973	1684943885445459691	CMakeFiles/SwordsMan.dir/Libs/Game.cpp.o	fcf3c2461acbc3e9
+973	1900	1684943886413461384	SwordsMan	9d5c2ca3f6e2d136
+2	1607	1684943916813523102	CMakeFiles/SwordsMan.dir/Libs/Turtle.cpp.o	1df9221242c5c33b
+1	1622	1684943916825523129	CMakeFiles/SwordsMan.dir/Libs/Game.cpp.o	fcf3c2461acbc3e9
+1622	1835	1684943917505524696	SwordsMan	9d5c2ca3f6e2d136
+1	129	1684943937833575134	CMakeFiles/SwordsMan.dir/Libs/Turtle.cpp.o	1df9221242c5c33b
+129	226	1684943937949575440	SwordsMan	9d5c2ca3f6e2d136
+0	1241	1684944128870348671	CMakeFiles/SwordsMan.dir/Libs/Game.cpp.o	fcf3c2461acbc3e9
+1241	1327	1684944129154350172	SwordsMan	9d5c2ca3f6e2d136
+1	792	1684944367867890861	CMakeFiles/SwordsMan.dir/Libs/Game.cpp.o	fcf3c2461acbc3e9
+792	879	1684944367959891546	SwordsMan	9d5c2ca3f6e2d136

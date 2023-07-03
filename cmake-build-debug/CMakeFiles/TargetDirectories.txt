@@ -1,0 +1,3 @@
+/home/omar/Documents/EHB/354E/Term_Project/SwordsMan/cmake-build-debug/CMakeFiles/SwordsMan.dir
+/home/omar/Documents/EHB/354E/Term_Project/SwordsMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/omar/Documents/EHB/354E/Term_Project/SwordsMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
