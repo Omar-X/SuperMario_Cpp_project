@@ -1,6 +1,7 @@
 # SuperMario_Cpp_project
 ## Aim
 This project aims to build a small Mario Game with the capability of changing the maze, by changing TheMaze.txt file
+
 ![Maze](https://github.com/Omar-X/SuperMario_Cpp_project/assets/55954393/5ad2660b-395d-418f-abd0-75513dcba66f)
 
 ## Requirements
