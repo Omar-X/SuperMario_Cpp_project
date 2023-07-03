@@ -5,7 +5,7 @@ This project aims to build a small Mario Game with the capability of changing th
 ![Maze](https://github.com/Omar-X/SuperMario_Cpp_project/assets/55954393/5ad2660b-395d-418f-abd0-75513dcba66f)
 
 ## Requirements
-* This game is designed for linux user initially. 
+* This game is designed for linux users initially. 
 * requires SFML lib to be installed.
 
 ## How it work
